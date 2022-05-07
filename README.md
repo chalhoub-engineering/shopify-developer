@@ -27,7 +27,7 @@ You can find layout of a page in `/recording` catalog.
 - Dots should show only on mobile
 - When a user clicks the “Add to cart” CTA on a slide, Should show a popup modal. The modal should show the price and title and the image of the added product. and modal should have two buttons, one to "CONTINUE SHOPPING" and one to " GO TO CART" and the current total of the cart count and cart total price.
 - And if the product has multiple variants instead of "ADD To CART", you need to replace the button with "SELECT OPTION" and this button should navigate to the respective product page.
-- AND additionally the cart count bubble in the header should reflect when you add a product.
+- Additionally the cart count bubble in the header should reflect when you add a product.
 - When the page loads, the slider should n't break the design. What I mean is that the product slide card should not be jumping around or you can use a loader while the slider loads. (Try to avoid Cumulative Layout Shift ).
 
 ### Deployment
