@@ -42,6 +42,6 @@ In the README file, we should be able to find all the information necessary to r
 
 We expect to get GIT repository and shopify test store access.
 
-If your repository is private, please share it with daniel.rosiak@chalhoub.com.
+If your repository is private, please share it with @daniel-rosiak
 
 If your store is password protected, please share access credentials.
